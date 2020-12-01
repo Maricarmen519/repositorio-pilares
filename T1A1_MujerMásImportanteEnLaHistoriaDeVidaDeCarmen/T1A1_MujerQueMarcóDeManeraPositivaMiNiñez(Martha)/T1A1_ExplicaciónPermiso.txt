@@ -1,0 +1,13 @@
+Los permisos de archivos o carpetas se cambiar para otorgar o denegar accesos 
+al propietario, un grupo o demás usuarios. Cada usuario que se generé de un 
+equipo se concidera perteneciente a un grupo.
+ 
+Para otorgar permisos a usuarios que están concectados en el mismo escritorio, 
+se utilizan las fichas de seguridad en lugar de la ficha Permisos de los recursos
+comparidos. En el caso de windows se establecerán los permisos  en el nivel del 
+sistema de archivos NTFS. 
+En la parte de los recursos compartido se puede establecer la parte de Control 
+total del archivo o carpeta compartida, ya sea para el grupo.
+Mientras tanto, en la parte de seguridad., se peude especificar un acceso más 
+restrictivo, porque se puede poner en modo Solo Lectura, para qtal cual lo dice
+el nombre, sólo tendrán la oportunidad de leer. 
